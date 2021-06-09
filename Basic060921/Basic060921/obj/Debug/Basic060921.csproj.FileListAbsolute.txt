@@ -1,0 +1,7 @@
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\bin\Debug\Basic060921.exe.config
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\bin\Debug\Basic060921.exe
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\bin\Debug\Basic060921.pdb
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\obj\Debug\Basic060921.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\obj\Debug\Basic060921.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\obj\Debug\Basic060921.exe
+C:\Users\KB\Desktop\060921\Basic060921\Basic060921\obj\Debug\Basic060921.pdb
